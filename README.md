@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Khushi! 👋<br><br>I am a Computer Science Engineering student focused on building impactful full-stack applications and exploring the world of Data Science and Machine Learning. I love project-based learning and turning ideas into clean, functional code.<br><br>### 🚀 What I'm Up To<br>- 🛠️ Developing full-stack web platforms connecting frontend interfaces with robust backends.<br>- 📊 Diving deep into Python, Data Analysis and Machine Learning.<br>- 💡 Passionate about creating efficient, scalable systems and intuitive user experiences.<br>- ⚡ **Belief:** True learning happens in the terminal, through trial, error, and building projects from scratch.
+### Hi there, I'm Khushi! 👋<br><br>I am a Computer Science Engineering student focused on building impactful full-stack applications and exploring the world of Data Science and Machine Learning. I love project-based learning and turning ideas into clean, functional code.<br><br> ### 🚀 What I'm Up To<br>- 🛠️ Developing full-stack web platforms connecting frontend interfaces with robust backends.<br>- 📊 Diving deep into Python, Data Analysis and Machine Learning.<br>- 💡 Passionate about creating efficient, scalable systems and intuitive user experiences.<br>- ⚡ **Belief:** True learning happens in the terminal, through trial, error, and building projects from scratch.
 
 
 ## 🌐 Socials:
