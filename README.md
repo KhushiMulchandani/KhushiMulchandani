@@ -1,10 +1,15 @@
 # Hi there, I'm Khushi! 👋<br>
-I am a Computer Science Engineering student focused on building impactful full-stack applications and exploring the world of Data Science and Machine Learning. I love project-based learning and turning ideas into clean, functional code.<br><br> 
+I am a Computer Science Engineering student focused on building impactful full-stack applications and exploring the world of Data Science and Machine Learning. I love project-based learning and turning ideas into clean, functional code.<br>
+
+---
+
 # 🚀 What I'm Up To:<br>
  - Developing full-stack web platforms connecting frontend interfaces with robust backends.<br> 
  - Diving deep into Python, Data Analysis and Machine Learning.<br>
  - Passionate about creating efficient, scalable systems and intuitive user experiences.<br>
  - **Belief:** True learning happens in the terminal, through trial, error, and building projects from scratch!
+
+---
 
 # 💻 Technical Skills:
 
@@ -23,12 +28,16 @@ I am a Computer Science Engineering student focused on building impactful full-s
 ### ⚙️ Tools & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
 # 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=KhushiMulchandani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&v=1" alt="Khushi Stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=KhushiMulchandani&theme=tokyonight&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" />
 </p>
+
+---
 
 # 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khushi-mulchandani-9b2252390) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mulchandanikhushi829@gmail.com)
