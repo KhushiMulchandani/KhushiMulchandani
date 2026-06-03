@@ -1,10 +1,9 @@
-```yaml
 name: Update GitHub Streak Stats
 
 on:
   schedule:
-    - cron: '0 0,12 * * *' # Automatically runs twice a day (12 AM and 12 PM UTC)
-  workflow_dispatch: # Allows you to manually click a button to run it instantly
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
 
 jobs:
   update-stats:
