@@ -34,8 +34,8 @@ I am a Computer Science Engineering student focused on building impactful full-s
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=KhushiMulchandani&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&v=1" alt="Khushi Stats" />
   <br/><br/>
- 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KhushiMulchandani&theme=tokyonight" alt="GitHub Streak" /></a>
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=KhushiMulchandani&theme=tokyonight)](https://git.io/streak-stats)
 </p>
 
 ---
